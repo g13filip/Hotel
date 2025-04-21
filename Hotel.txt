@@ -1,0 +1,19 @@
+room_number,capacity,price,description,checkin,guests
+1,2,200,"pokój","2024-11-18","Jan Kowalski, Piotr Zieliński"
+2,3,210,"pokój ","2024-11-15","Hugo Kołątaj"
+3,4,280,"pokój ","2024-11-12","Mateusz Ja, Karol Gązwa"
+4,5,140,"apartament","2024-11-16","Oj Tak, Nie my"
+5,3,560,"pokój",,
+6,1,387,"taras","2024-11-18","Dzień Dobry"
+101,6,655,"pokój",,
+102,1,344,"apartament",,
+103,3,76,"pokój",,
+104,2,211,"pokój",,
+105,7,54,"pokój","2024-11-13","Karolina Tak"
+106,1,76,"Namiot","2024-11-12","Wiktoria Nie"
+201,4,46,"Garderoba","2024-11-11","Bożydar Możliwy"
+202,2,567,"pokój","2024-11-18","Kazimierz Wielki, Mateusz Nowak"
+203,1,876,"pokój",,
+204,3,123,"pokój",,
+205,1,786,"pokój","2024-11-18","Bolesław Komorowski"
+206,3,1101,"apartament","2024-11-11","Katarzyna Nasza , Michał Ziobro"
